@@ -211,7 +211,7 @@ namespace SharpSCCM
                 {
                     Console.WriteLine(
                         "[!] The SCCM client may not be installed on this machine\n" +
-                        "[!] Try specifying an SMS Provider (-sms) and site code (-sc)"
+                        "[!] Try specifying an SMS Provider (-sms), Management Point (-mp) and site code (-sc)"
                         );
                 }
             }
